@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World!";
+    private static final String MESSAGE = "Hello World! chekcing poll scm option";
 
     public App() {}
 
